@@ -1,4 +1,5 @@
 # luffy
+<<<<<<< HEAD
 ## Ý Nghĩa Git command line 
 - Cách push
 - Cách pull 
@@ -19,3 +20,6 @@
 - git pull
 - git add .
 - git pull# luffy
+=======
+## Đưa Layout-Quizlet lên Github
+>>>>>>> parent of a8f5dd8... quizlet
