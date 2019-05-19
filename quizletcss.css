@@ -142,13 +142,21 @@ ul{
 }
 .icon-share a{
     fill:#3ccfcf;
+<<<<<<< HEAD
     float: left;
+=======
+    float: left;  
+>>>>>>> 25045283d5350df0d45125463f148281302b8000
 }
 .icon-share a:hover{
    fill: #ffcd1f;
 }
 .icon-share{
+<<<<<<< HEAD
     padding: 16px 20px 16px 20px;
+=======
+    padding: 16px 20px 16px 3px;
+>>>>>>> 25045283d5350df0d45125463f148281302b8000
     margin-top: 40px;
 }
 .t-left4 a{
@@ -158,10 +166,27 @@ ul{
     color: #ffcd1f;
 }
 .create-class a{
+<<<<<<< HEAD
     color: #3ccfcf;
     fill: #3ccfcf;
 }
 .create-class a:hover{
     color: rgb(255, 205, 31);
     fill: rgb(255, 205, 31);
+=======
+    padding: 8px 12px 8px 52px;
+    color: #3ccfcf;
+    fill: #3ccfcf;
+    font-size: 14.5px;
+}
+.t-left2 ul .create-class a:hover{
+    color: #ffcd1f;
+    fill: #ffcd1f;
+    background-color: white;
+}
+.quizlet-new a{
+    color: #555;
+    font-size: 13px;
+    letter-spacing: 2px;
+>>>>>>> 25045283d5350df0d45125463f148281302b8000
 }
