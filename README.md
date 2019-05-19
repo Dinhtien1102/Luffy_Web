@@ -1,9 +1,4 @@
 # luffy
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-<<<<<<< HEAD
->>>>>>> 8f6a462b40dac84ed32bb9d88227b4a62adfa640
 ## Ý Nghĩa Git command line 
 - Cách push
 - Cách pull 
@@ -24,14 +19,3 @@
 - git pull
 - git add .
 - git pull# luffy
-<<<<<<< HEAD
-=======
-=======
-## Đưa Layout-Quizlet lên Github
->>>>>>> parent of a8f5dd8... quizlet
-=======
-## Đưa Layout-Quizlet lên Github
-# đường dẫn vào càng chi tiết càng được ưu tiên# quizlet
--  echo "# quizlet" >> README.md tạo file README.md với nội dung là quizlet
->>>>>>> 25045283d5350df0d45125463f148281302b8000
->>>>>>> 8f6a462b40dac84ed32bb9d88227b4a62adfa640
